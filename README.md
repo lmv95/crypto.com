@@ -14,8 +14,6 @@ The wallet operates on a true self-custody model where users maintain complete c
 
 ## OKX Web3 Coupon Codes
 
-OKX offers multiple referral codes for October 2025 that provide substantial welcome bonuses and trading benefits for new users. The primary referral codes include **87043256**, which unlocks up to $10,000 in welcome bonuses plus mystery box rewards. Alternative codes include **98973395** for a $10,000 USDT sign-up bonus with 30% trading fee discount, and **MILKROAD** for 20% off trading fees plus a mystery box worth up to $10,000. The referral code **36988369** provides a 15% discount on trading fees and welcome bonuses up to $10,000.
-
 To activate these benefits, new users must enter the referral code during registration, complete KYC verification, deposit funds, and execute trades within 14 days of sign-up. Rewards are automatically credited once all conditions are met, and the codes cannot be applied retroactively after account creation.
 
 [Click to view the latest promotions on the OKX Web3 official site](https://web3.okx.com/join/VIPGO)
